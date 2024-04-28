@@ -2,6 +2,7 @@
 #define CELL2D_CLS_H_INCLUDED
 
 class Cell2D : public Objeto2D // Esta clase representa una celda de un tileset en una posicion
+// ESTA CLASE TODAVIA NO ESTA TERMINADA, NO FUNCIONA CORRECTAMENTE.
 {
 private:
     Array<Objeto2D*> objetos_dentro;
