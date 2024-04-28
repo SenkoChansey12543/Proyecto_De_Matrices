@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1711510972 source:c:\users\alejo\desktop\proyectoscodeblocksc++\sistemacoordenadas\main.cpp
+	<iostream>
+	<conio.h>
+	"Utiles/rlutil.h"
+	"Utiles/Global_Funcs.h"
+	"Utiles/Vector2_cls.h"
+	"Utiles/IDManager_cls.h"
+	"Objetos2D/Objeto2D.h"
+	"Objetos2D/Figuras2D/figura_cls.h"
+	"Objetos2D/Figuras2D/rectangulo_cls.h"
+	"Utiles/Arrays.h"
+
+1711494119 c:\users\alejo\desktop\proyectoscodeblocksc++\sistemacoordenadas\vector2_cls.h
+	"rlutil.h"
+
+1711494181 c:\users\alejo\desktop\proyectoscodeblocksc++\sistemacoordenadas\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1711496421 c:\users\alejo\desktop\proyectoscodeblocksc++\sistemacoordenadas\utiles\vector2_cls.h
+
+1711494181 c:\users\alejo\desktop\proyectoscodeblocksc++\sistemacoordenadas\utiles\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1711494920 c:\users\alejo\desktop\proyectoscodeblocksc++\sistemacoordenadas\figuras\figura_cls.h
+
+1711496878 c:\users\alejo\desktop\proyectoscodeblocksc++\sistemacoordenadas\figuras\rectangulo_cls.h
+
+1711498063 c:\users\alejo\desktop\proyectoscodeblocksc++\sistemacoordenadas\utiles\global_funcs.h
+	<conio.h>
+
+1711505493 c:\users\alejo\desktop\proyectoscodeblocksc++\sistemacoordenadas\utiles\idmanager_cls.h
+
+1711506195 c:\users\alejo\desktop\proyectoscodeblocksc++\sistemacoordenadas\objetos2d\objeto2d.h
+
+1711502401 c:\users\alejo\desktop\proyectoscodeblocksc++\sistemacoordenadas\objetos2d\figuras2d\figura_cls.h
+
+1711498946 c:\users\alejo\desktop\proyectoscodeblocksc++\sistemacoordenadas\objetos2d\figuras2d\rectangulo_cls.h
+
+1711511254 c:\users\alejo\desktop\proyectoscodeblocksc++\sistemacoordenadas\utiles\arrays.h
+
+1711734846 source:c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cmath>
+	"Utiles/rlutil.h"
+	"Utiles/Arrays_cls.h"
+	"Utiles/ID_cls.h"
+	"Utiles/IDManager_cls.h"
+	"Utiles/Global_Funcs.h"
+	"Utiles/Vector2_cls.h"
+	"Objetos2D/Objeto2D_cls.h"
+	"Objetos2D/Rectangulo_cls.h"
+	"Objetos2D/Jugador2D_cls.h"
+	"Objetos2D/Enemigo2D_cls.h"
+	"Objetos2D/Spawner2D_cls.h"
+	"Objetos2D/Cell2D_cls.h"
+	"Objetos2D/Mapa2D_cls.h"
+
+1711494181 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\utiles\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1711677702 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\utiles\global_funcs.h
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	"Vector2_cls.h"
+
+1711733236 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\utiles\vector2_cls.h
+
+1711667076 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\utiles\idmanager_cls.h
+
+1711588652 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\objetos2d\objeto2d.h
+
+1711565890 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\objetos2d\figuras2d\figura_cls.h
+
+1711498946 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\objetos2d\figuras2d\rectangulo_cls.h
+
+1711590835 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\utiles\arrays.h
+
+1711672705 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\objetos2d\personaje2d_cls.h
+
+1711735371 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\objetos2d\mapa2d_cls.h
+
+1711595184 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\objetos2d\caja.h
+
+1711731306 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\utiles\arrays_cls.h
+	"ID_cls.h"
+
+1711670881 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\objetos2d\objeto2d_cls.h
+
+1711681593 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\objetos2d\rectangulo_cls.h
+
+1711670901 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\objetos2d\caja2d_cls.h
+
+1711726341 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\objetos2d\enemigo2d_cls.h
+
+1711667995 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\utiles\id_stc.h
+
+1711681317 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\objetos2d\spawner2d_cls.h
+
+1711730075 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\objetos2d\jugador2d_cls.h
+
+1711667995 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\utiles\id_cls.h
+
+1711735342 c:\users\alejo\desktop\proyectoscodeblocksc++\sistema de coordenadas\objetos2d\cell2d_cls.h
+
